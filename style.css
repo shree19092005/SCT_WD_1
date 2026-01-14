@@ -48,7 +48,7 @@ nav a:hover {
 }
 
 .hero {
-  background: linear-gradient(to right, #1d2671, #c33764);
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   color: white;
   display: flex;
   flex-direction: column;
@@ -59,4 +59,5 @@ nav a:hover {
   nav {
     display: none;
   }
+
 }
